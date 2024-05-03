@@ -1,4 +1,4 @@
-# seeFood-coreML
+# SeeFood-coreML
 
 ## What I've created
 
