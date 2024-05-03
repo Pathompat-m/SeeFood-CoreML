@@ -1,6 +1,6 @@
-# SeeFood-coreML
+# SeeFood-CoreML
 
-## What I've created
+## Overview
 
 SeeFood-CoreML is an iOS app that utilizes CoreML to classify images as either a hotdog or not a hotdog.
 
